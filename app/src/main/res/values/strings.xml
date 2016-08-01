@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="latitude">Latitude: </string>
+    <string name="longitude">Longitude: </string>
+    <string name="location_fail">Location not detected</string>
+    <string name="x_axis">X axis: </string>
+    <string name="y_axis">Y axis: </string>
+    <string name="z_axis">Z axis: </string>
+</resources>
